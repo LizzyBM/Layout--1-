@@ -1,0 +1,45 @@
+body{
+    /*Add styles here*/
+
+}
+
+header, main, footer{
+    /*Add styles here*/
+
+}
+
+header img{
+    width: 100px;
+    float: left;
+    margin-right: 1rem;
+}
+
+header h1 {
+      /*Add logo styles here*/
+    
+}
+
+  
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+footer{
+    /*Add Footer Styles here*/
+}
+body{
+    background-image: url(/Layout/images/pexels-rovenimages-com-344613-949587.jpg);
+    background-size: cover;
+}
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(227, 216, 68);
+}
+.nugget{
+    background-color: rgba(76, 162, 227, 0.695);
+    padding: ;
+}
